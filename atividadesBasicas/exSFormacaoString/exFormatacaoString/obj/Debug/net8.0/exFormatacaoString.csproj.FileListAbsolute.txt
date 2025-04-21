@@ -1,0 +1,14 @@
+/home/user/vscodeProjects/exSFormacaoString/exFormatacaoString/bin/Debug/net8.0/exFormatacaoString
+/home/user/vscodeProjects/exSFormacaoString/exFormatacaoString/bin/Debug/net8.0/exFormatacaoString.deps.json
+/home/user/vscodeProjects/exSFormacaoString/exFormatacaoString/bin/Debug/net8.0/exFormatacaoString.runtimeconfig.json
+/home/user/vscodeProjects/exSFormacaoString/exFormatacaoString/bin/Debug/net8.0/exFormatacaoString.dll
+/home/user/vscodeProjects/exSFormacaoString/exFormatacaoString/bin/Debug/net8.0/exFormatacaoString.pdb
+/home/user/vscodeProjects/exSFormacaoString/exFormatacaoString/obj/Debug/net8.0/exFormatacaoString.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/vscodeProjects/exSFormacaoString/exFormatacaoString/obj/Debug/net8.0/exFormatacaoString.AssemblyInfoInputs.cache
+/home/user/vscodeProjects/exSFormacaoString/exFormatacaoString/obj/Debug/net8.0/exFormatacaoString.AssemblyInfo.cs
+/home/user/vscodeProjects/exSFormacaoString/exFormatacaoString/obj/Debug/net8.0/exFormatacaoString.csproj.CoreCompileInputs.cache
+/home/user/vscodeProjects/exSFormacaoString/exFormatacaoString/obj/Debug/net8.0/exFormatacaoString.dll
+/home/user/vscodeProjects/exSFormacaoString/exFormatacaoString/obj/Debug/net8.0/refint/exFormatacaoString.dll
+/home/user/vscodeProjects/exSFormacaoString/exFormatacaoString/obj/Debug/net8.0/exFormatacaoString.pdb
+/home/user/vscodeProjects/exSFormacaoString/exFormatacaoString/obj/Debug/net8.0/exFormatacaoString.genruntimeconfig.cache
+/home/user/vscodeProjects/exSFormacaoString/exFormatacaoString/obj/Debug/net8.0/ref/exFormatacaoString.dll
