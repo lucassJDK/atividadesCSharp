@@ -1,0 +1,14 @@
+/home/user/vscodeProjects/HelloWordCs/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp
+/home/user/vscodeProjects/HelloWordCs/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.deps.json
+/home/user/vscodeProjects/HelloWordCs/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.runtimeconfig.json
+/home/user/vscodeProjects/HelloWordCs/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.dll
+/home/user/vscodeProjects/HelloWordCs/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.pdb
+/home/user/vscodeProjects/HelloWordCs/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/vscodeProjects/HelloWordCs/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.AssemblyInfoInputs.cache
+/home/user/vscodeProjects/HelloWordCs/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.AssemblyInfo.cs
+/home/user/vscodeProjects/HelloWordCs/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/home/user/vscodeProjects/HelloWordCs/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.dll
+/home/user/vscodeProjects/HelloWordCs/HelloWorldApp/obj/Debug/net8.0/refint/HelloWorldApp.dll
+/home/user/vscodeProjects/HelloWordCs/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.pdb
+/home/user/vscodeProjects/HelloWordCs/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.genruntimeconfig.cache
+/home/user/vscodeProjects/HelloWordCs/HelloWorldApp/obj/Debug/net8.0/ref/HelloWorldApp.dll
