@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("atividadeSemaforo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6250b98af895d569d10734eecc2e116e30892cd2")]
 [assembly: System.Reflection.AssemblyProductAttribute("atividadeSemaforo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("atividadeSemaforo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
