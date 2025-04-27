@@ -1,0 +1,14 @@
+/home/user/vscodeProjects/fibonnaci/exFibonnaci/bin/Debug/net8.0/exFibonnaci
+/home/user/vscodeProjects/fibonnaci/exFibonnaci/bin/Debug/net8.0/exFibonnaci.deps.json
+/home/user/vscodeProjects/fibonnaci/exFibonnaci/bin/Debug/net8.0/exFibonnaci.runtimeconfig.json
+/home/user/vscodeProjects/fibonnaci/exFibonnaci/bin/Debug/net8.0/exFibonnaci.dll
+/home/user/vscodeProjects/fibonnaci/exFibonnaci/bin/Debug/net8.0/exFibonnaci.pdb
+/home/user/vscodeProjects/fibonnaci/exFibonnaci/obj/Debug/net8.0/exFibonnaci.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/vscodeProjects/fibonnaci/exFibonnaci/obj/Debug/net8.0/exFibonnaci.AssemblyInfoInputs.cache
+/home/user/vscodeProjects/fibonnaci/exFibonnaci/obj/Debug/net8.0/exFibonnaci.AssemblyInfo.cs
+/home/user/vscodeProjects/fibonnaci/exFibonnaci/obj/Debug/net8.0/exFibonnaci.csproj.CoreCompileInputs.cache
+/home/user/vscodeProjects/fibonnaci/exFibonnaci/obj/Debug/net8.0/exFibonnaci.dll
+/home/user/vscodeProjects/fibonnaci/exFibonnaci/obj/Debug/net8.0/refint/exFibonnaci.dll
+/home/user/vscodeProjects/fibonnaci/exFibonnaci/obj/Debug/net8.0/exFibonnaci.pdb
+/home/user/vscodeProjects/fibonnaci/exFibonnaci/obj/Debug/net8.0/exFibonnaci.genruntimeconfig.cache
+/home/user/vscodeProjects/fibonnaci/exFibonnaci/obj/Debug/net8.0/ref/exFibonnaci.dll

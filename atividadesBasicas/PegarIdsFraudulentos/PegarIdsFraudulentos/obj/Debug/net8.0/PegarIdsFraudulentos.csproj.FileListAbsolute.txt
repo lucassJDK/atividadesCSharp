@@ -1,0 +1,14 @@
+/home/user/vscodeProjects/PegarIdsFraudulentos/PegarIdsFraudulentos/bin/Debug/net8.0/PegarIdsFraudulentos
+/home/user/vscodeProjects/PegarIdsFraudulentos/PegarIdsFraudulentos/bin/Debug/net8.0/PegarIdsFraudulentos.deps.json
+/home/user/vscodeProjects/PegarIdsFraudulentos/PegarIdsFraudulentos/bin/Debug/net8.0/PegarIdsFraudulentos.runtimeconfig.json
+/home/user/vscodeProjects/PegarIdsFraudulentos/PegarIdsFraudulentos/bin/Debug/net8.0/PegarIdsFraudulentos.dll
+/home/user/vscodeProjects/PegarIdsFraudulentos/PegarIdsFraudulentos/bin/Debug/net8.0/PegarIdsFraudulentos.pdb
+/home/user/vscodeProjects/PegarIdsFraudulentos/PegarIdsFraudulentos/obj/Debug/net8.0/PegarIdsFraudulentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/vscodeProjects/PegarIdsFraudulentos/PegarIdsFraudulentos/obj/Debug/net8.0/PegarIdsFraudulentos.AssemblyInfoInputs.cache
+/home/user/vscodeProjects/PegarIdsFraudulentos/PegarIdsFraudulentos/obj/Debug/net8.0/PegarIdsFraudulentos.AssemblyInfo.cs
+/home/user/vscodeProjects/PegarIdsFraudulentos/PegarIdsFraudulentos/obj/Debug/net8.0/PegarIdsFraudulentos.csproj.CoreCompileInputs.cache
+/home/user/vscodeProjects/PegarIdsFraudulentos/PegarIdsFraudulentos/obj/Debug/net8.0/PegarIdsFraudulentos.dll
+/home/user/vscodeProjects/PegarIdsFraudulentos/PegarIdsFraudulentos/obj/Debug/net8.0/refint/PegarIdsFraudulentos.dll
+/home/user/vscodeProjects/PegarIdsFraudulentos/PegarIdsFraudulentos/obj/Debug/net8.0/PegarIdsFraudulentos.pdb
+/home/user/vscodeProjects/PegarIdsFraudulentos/PegarIdsFraudulentos/obj/Debug/net8.0/PegarIdsFraudulentos.genruntimeconfig.cache
+/home/user/vscodeProjects/PegarIdsFraudulentos/PegarIdsFraudulentos/obj/Debug/net8.0/ref/PegarIdsFraudulentos.dll

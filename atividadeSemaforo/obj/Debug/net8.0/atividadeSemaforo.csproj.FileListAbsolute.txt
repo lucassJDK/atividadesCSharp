@@ -1,0 +1,14 @@
+/home/user/vscodeProjects/atividadesEscola/atividadeSemaforo/bin/Debug/net8.0/atividadeSemaforo
+/home/user/vscodeProjects/atividadesEscola/atividadeSemaforo/bin/Debug/net8.0/atividadeSemaforo.deps.json
+/home/user/vscodeProjects/atividadesEscola/atividadeSemaforo/bin/Debug/net8.0/atividadeSemaforo.runtimeconfig.json
+/home/user/vscodeProjects/atividadesEscola/atividadeSemaforo/bin/Debug/net8.0/atividadeSemaforo.dll
+/home/user/vscodeProjects/atividadesEscola/atividadeSemaforo/bin/Debug/net8.0/atividadeSemaforo.pdb
+/home/user/vscodeProjects/atividadesEscola/atividadeSemaforo/obj/Debug/net8.0/atividadeSemaforo.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/vscodeProjects/atividadesEscola/atividadeSemaforo/obj/Debug/net8.0/atividadeSemaforo.AssemblyInfoInputs.cache
+/home/user/vscodeProjects/atividadesEscola/atividadeSemaforo/obj/Debug/net8.0/atividadeSemaforo.AssemblyInfo.cs
+/home/user/vscodeProjects/atividadesEscola/atividadeSemaforo/obj/Debug/net8.0/atividadeSemaforo.csproj.CoreCompileInputs.cache
+/home/user/vscodeProjects/atividadesEscola/atividadeSemaforo/obj/Debug/net8.0/atividadeSemaforo.dll
+/home/user/vscodeProjects/atividadesEscola/atividadeSemaforo/obj/Debug/net8.0/refint/atividadeSemaforo.dll
+/home/user/vscodeProjects/atividadesEscola/atividadeSemaforo/obj/Debug/net8.0/atividadeSemaforo.pdb
+/home/user/vscodeProjects/atividadesEscola/atividadeSemaforo/obj/Debug/net8.0/atividadeSemaforo.genruntimeconfig.cache
+/home/user/vscodeProjects/atividadesEscola/atividadeSemaforo/obj/Debug/net8.0/ref/atividadeSemaforo.dll

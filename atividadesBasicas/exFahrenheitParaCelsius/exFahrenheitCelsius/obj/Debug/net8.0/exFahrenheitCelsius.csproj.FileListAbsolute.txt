@@ -1,0 +1,14 @@
+/home/user/vscodeProjects/exFahrenheitParaCelsius/exFahrenheitCelsius/bin/Debug/net8.0/exFahrenheitCelsius
+/home/user/vscodeProjects/exFahrenheitParaCelsius/exFahrenheitCelsius/bin/Debug/net8.0/exFahrenheitCelsius.deps.json
+/home/user/vscodeProjects/exFahrenheitParaCelsius/exFahrenheitCelsius/bin/Debug/net8.0/exFahrenheitCelsius.runtimeconfig.json
+/home/user/vscodeProjects/exFahrenheitParaCelsius/exFahrenheitCelsius/bin/Debug/net8.0/exFahrenheitCelsius.dll
+/home/user/vscodeProjects/exFahrenheitParaCelsius/exFahrenheitCelsius/bin/Debug/net8.0/exFahrenheitCelsius.pdb
+/home/user/vscodeProjects/exFahrenheitParaCelsius/exFahrenheitCelsius/obj/Debug/net8.0/exFahrenheitCelsius.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/vscodeProjects/exFahrenheitParaCelsius/exFahrenheitCelsius/obj/Debug/net8.0/exFahrenheitCelsius.AssemblyInfoInputs.cache
+/home/user/vscodeProjects/exFahrenheitParaCelsius/exFahrenheitCelsius/obj/Debug/net8.0/exFahrenheitCelsius.AssemblyInfo.cs
+/home/user/vscodeProjects/exFahrenheitParaCelsius/exFahrenheitCelsius/obj/Debug/net8.0/exFahrenheitCelsius.csproj.CoreCompileInputs.cache
+/home/user/vscodeProjects/exFahrenheitParaCelsius/exFahrenheitCelsius/obj/Debug/net8.0/exFahrenheitCelsius.dll
+/home/user/vscodeProjects/exFahrenheitParaCelsius/exFahrenheitCelsius/obj/Debug/net8.0/refint/exFahrenheitCelsius.dll
+/home/user/vscodeProjects/exFahrenheitParaCelsius/exFahrenheitCelsius/obj/Debug/net8.0/exFahrenheitCelsius.pdb
+/home/user/vscodeProjects/exFahrenheitParaCelsius/exFahrenheitCelsius/obj/Debug/net8.0/exFahrenheitCelsius.genruntimeconfig.cache
+/home/user/vscodeProjects/exFahrenheitParaCelsius/exFahrenheitCelsius/obj/Debug/net8.0/ref/exFahrenheitCelsius.dll
