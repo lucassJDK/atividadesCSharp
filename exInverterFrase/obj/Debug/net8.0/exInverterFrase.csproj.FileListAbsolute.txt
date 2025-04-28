@@ -1,0 +1,14 @@
+/home/user/dotnet/exInverterFrase/bin/Debug/net8.0/exInverterFrase
+/home/user/dotnet/exInverterFrase/bin/Debug/net8.0/exInverterFrase.deps.json
+/home/user/dotnet/exInverterFrase/bin/Debug/net8.0/exInverterFrase.runtimeconfig.json
+/home/user/dotnet/exInverterFrase/bin/Debug/net8.0/exInverterFrase.dll
+/home/user/dotnet/exInverterFrase/bin/Debug/net8.0/exInverterFrase.pdb
+/home/user/dotnet/exInverterFrase/obj/Debug/net8.0/exInverterFrase.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/dotnet/exInverterFrase/obj/Debug/net8.0/exInverterFrase.AssemblyInfoInputs.cache
+/home/user/dotnet/exInverterFrase/obj/Debug/net8.0/exInverterFrase.AssemblyInfo.cs
+/home/user/dotnet/exInverterFrase/obj/Debug/net8.0/exInverterFrase.csproj.CoreCompileInputs.cache
+/home/user/dotnet/exInverterFrase/obj/Debug/net8.0/exInverterFrase.dll
+/home/user/dotnet/exInverterFrase/obj/Debug/net8.0/refint/exInverterFrase.dll
+/home/user/dotnet/exInverterFrase/obj/Debug/net8.0/exInverterFrase.pdb
+/home/user/dotnet/exInverterFrase/obj/Debug/net8.0/exInverterFrase.genruntimeconfig.cache
+/home/user/dotnet/exInverterFrase/obj/Debug/net8.0/ref/exInverterFrase.dll
