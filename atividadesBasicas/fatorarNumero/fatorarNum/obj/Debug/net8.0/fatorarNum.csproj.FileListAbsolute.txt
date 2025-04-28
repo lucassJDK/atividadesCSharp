@@ -1,0 +1,14 @@
+/home/user/vscodeProjects/fatorarNumero/fatorarNum/bin/Debug/net8.0/fatorarNum
+/home/user/vscodeProjects/fatorarNumero/fatorarNum/bin/Debug/net8.0/fatorarNum.deps.json
+/home/user/vscodeProjects/fatorarNumero/fatorarNum/bin/Debug/net8.0/fatorarNum.runtimeconfig.json
+/home/user/vscodeProjects/fatorarNumero/fatorarNum/bin/Debug/net8.0/fatorarNum.dll
+/home/user/vscodeProjects/fatorarNumero/fatorarNum/bin/Debug/net8.0/fatorarNum.pdb
+/home/user/vscodeProjects/fatorarNumero/fatorarNum/obj/Debug/net8.0/fatorarNum.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/vscodeProjects/fatorarNumero/fatorarNum/obj/Debug/net8.0/fatorarNum.AssemblyInfoInputs.cache
+/home/user/vscodeProjects/fatorarNumero/fatorarNum/obj/Debug/net8.0/fatorarNum.AssemblyInfo.cs
+/home/user/vscodeProjects/fatorarNumero/fatorarNum/obj/Debug/net8.0/fatorarNum.csproj.CoreCompileInputs.cache
+/home/user/vscodeProjects/fatorarNumero/fatorarNum/obj/Debug/net8.0/fatorarNum.dll
+/home/user/vscodeProjects/fatorarNumero/fatorarNum/obj/Debug/net8.0/refint/fatorarNum.dll
+/home/user/vscodeProjects/fatorarNumero/fatorarNum/obj/Debug/net8.0/fatorarNum.pdb
+/home/user/vscodeProjects/fatorarNumero/fatorarNum/obj/Debug/net8.0/fatorarNum.genruntimeconfig.cache
+/home/user/vscodeProjects/fatorarNumero/fatorarNum/obj/Debug/net8.0/ref/fatorarNum.dll
