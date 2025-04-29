@@ -1,0 +1,15 @@
+/home/user/vscodeProjects/checarIpValido/exChecarIp/bin/Debug/net8.0/exChecarIp
+/home/user/vscodeProjects/checarIpValido/exChecarIp/bin/Debug/net8.0/exChecarIp.deps.json
+/home/user/vscodeProjects/checarIpValido/exChecarIp/bin/Debug/net8.0/exChecarIp.runtimeconfig.json
+/home/user/vscodeProjects/checarIpValido/exChecarIp/bin/Debug/net8.0/exChecarIp.dll
+/home/user/vscodeProjects/checarIpValido/exChecarIp/bin/Debug/net8.0/exChecarIp.pdb
+/home/user/vscodeProjects/checarIpValido/exChecarIp/obj/Debug/net8.0/exChecarIp.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/vscodeProjects/checarIpValido/exChecarIp/obj/Debug/net8.0/exChecarIp.AssemblyInfoInputs.cache
+/home/user/vscodeProjects/checarIpValido/exChecarIp/obj/Debug/net8.0/exChecarIp.AssemblyInfo.cs
+/home/user/vscodeProjects/checarIpValido/exChecarIp/obj/Debug/net8.0/exChecarIp.csproj.CoreCompileInputs.cache
+/home/user/vscodeProjects/checarIpValido/exChecarIp/obj/Debug/net8.0/exChecarIp.sourcelink.json
+/home/user/vscodeProjects/checarIpValido/exChecarIp/obj/Debug/net8.0/exChecarIp.dll
+/home/user/vscodeProjects/checarIpValido/exChecarIp/obj/Debug/net8.0/refint/exChecarIp.dll
+/home/user/vscodeProjects/checarIpValido/exChecarIp/obj/Debug/net8.0/exChecarIp.pdb
+/home/user/vscodeProjects/checarIpValido/exChecarIp/obj/Debug/net8.0/exChecarIp.genruntimeconfig.cache
+/home/user/vscodeProjects/checarIpValido/exChecarIp/obj/Debug/net8.0/ref/exChecarIp.dll
