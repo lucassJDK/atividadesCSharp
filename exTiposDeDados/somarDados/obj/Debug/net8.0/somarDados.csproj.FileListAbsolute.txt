@@ -1,0 +1,14 @@
+/home/user/vscodeProjects/exTiposDeDados/somarDados/bin/Debug/net8.0/somarDados
+/home/user/vscodeProjects/exTiposDeDados/somarDados/bin/Debug/net8.0/somarDados.deps.json
+/home/user/vscodeProjects/exTiposDeDados/somarDados/bin/Debug/net8.0/somarDados.runtimeconfig.json
+/home/user/vscodeProjects/exTiposDeDados/somarDados/bin/Debug/net8.0/somarDados.dll
+/home/user/vscodeProjects/exTiposDeDados/somarDados/bin/Debug/net8.0/somarDados.pdb
+/home/user/vscodeProjects/exTiposDeDados/somarDados/obj/Debug/net8.0/somarDados.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/vscodeProjects/exTiposDeDados/somarDados/obj/Debug/net8.0/somarDados.AssemblyInfoInputs.cache
+/home/user/vscodeProjects/exTiposDeDados/somarDados/obj/Debug/net8.0/somarDados.AssemblyInfo.cs
+/home/user/vscodeProjects/exTiposDeDados/somarDados/obj/Debug/net8.0/somarDados.csproj.CoreCompileInputs.cache
+/home/user/vscodeProjects/exTiposDeDados/somarDados/obj/Debug/net8.0/somarDados.dll
+/home/user/vscodeProjects/exTiposDeDados/somarDados/obj/Debug/net8.0/refint/somarDados.dll
+/home/user/vscodeProjects/exTiposDeDados/somarDados/obj/Debug/net8.0/somarDados.pdb
+/home/user/vscodeProjects/exTiposDeDados/somarDados/obj/Debug/net8.0/somarDados.genruntimeconfig.cache
+/home/user/vscodeProjects/exTiposDeDados/somarDados/obj/Debug/net8.0/ref/somarDados.dll

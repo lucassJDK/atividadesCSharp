@@ -1,0 +1,14 @@
+/home/user/vscodeProjects/ImprimirMaiorNumeroUsandoMath/ImprimirMaiorNumero/bin/Debug/net8.0/ImprimirMaiorNumero
+/home/user/vscodeProjects/ImprimirMaiorNumeroUsandoMath/ImprimirMaiorNumero/bin/Debug/net8.0/ImprimirMaiorNumero.deps.json
+/home/user/vscodeProjects/ImprimirMaiorNumeroUsandoMath/ImprimirMaiorNumero/bin/Debug/net8.0/ImprimirMaiorNumero.runtimeconfig.json
+/home/user/vscodeProjects/ImprimirMaiorNumeroUsandoMath/ImprimirMaiorNumero/bin/Debug/net8.0/ImprimirMaiorNumero.dll
+/home/user/vscodeProjects/ImprimirMaiorNumeroUsandoMath/ImprimirMaiorNumero/bin/Debug/net8.0/ImprimirMaiorNumero.pdb
+/home/user/vscodeProjects/ImprimirMaiorNumeroUsandoMath/ImprimirMaiorNumero/obj/Debug/net8.0/ImprimirMaiorNumero.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/vscodeProjects/ImprimirMaiorNumeroUsandoMath/ImprimirMaiorNumero/obj/Debug/net8.0/ImprimirMaiorNumero.AssemblyInfoInputs.cache
+/home/user/vscodeProjects/ImprimirMaiorNumeroUsandoMath/ImprimirMaiorNumero/obj/Debug/net8.0/ImprimirMaiorNumero.AssemblyInfo.cs
+/home/user/vscodeProjects/ImprimirMaiorNumeroUsandoMath/ImprimirMaiorNumero/obj/Debug/net8.0/ImprimirMaiorNumero.csproj.CoreCompileInputs.cache
+/home/user/vscodeProjects/ImprimirMaiorNumeroUsandoMath/ImprimirMaiorNumero/obj/Debug/net8.0/ImprimirMaiorNumero.dll
+/home/user/vscodeProjects/ImprimirMaiorNumeroUsandoMath/ImprimirMaiorNumero/obj/Debug/net8.0/refint/ImprimirMaiorNumero.dll
+/home/user/vscodeProjects/ImprimirMaiorNumeroUsandoMath/ImprimirMaiorNumero/obj/Debug/net8.0/ImprimirMaiorNumero.pdb
+/home/user/vscodeProjects/ImprimirMaiorNumeroUsandoMath/ImprimirMaiorNumero/obj/Debug/net8.0/ImprimirMaiorNumero.genruntimeconfig.cache
+/home/user/vscodeProjects/ImprimirMaiorNumeroUsandoMath/ImprimirMaiorNumero/obj/Debug/net8.0/ref/ImprimirMaiorNumero.dll

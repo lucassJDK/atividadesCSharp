@@ -1,0 +1,14 @@
+/home/user/vscodeProjects/RegraDeNegocio/calcularDiasExpiracao/bin/Debug/net8.0/calcularDiasExpiracao
+/home/user/vscodeProjects/RegraDeNegocio/calcularDiasExpiracao/bin/Debug/net8.0/calcularDiasExpiracao.deps.json
+/home/user/vscodeProjects/RegraDeNegocio/calcularDiasExpiracao/bin/Debug/net8.0/calcularDiasExpiracao.runtimeconfig.json
+/home/user/vscodeProjects/RegraDeNegocio/calcularDiasExpiracao/bin/Debug/net8.0/calcularDiasExpiracao.dll
+/home/user/vscodeProjects/RegraDeNegocio/calcularDiasExpiracao/bin/Debug/net8.0/calcularDiasExpiracao.pdb
+/home/user/vscodeProjects/RegraDeNegocio/calcularDiasExpiracao/obj/Debug/net8.0/calcularDiasExpiracao.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/vscodeProjects/RegraDeNegocio/calcularDiasExpiracao/obj/Debug/net8.0/calcularDiasExpiracao.AssemblyInfoInputs.cache
+/home/user/vscodeProjects/RegraDeNegocio/calcularDiasExpiracao/obj/Debug/net8.0/calcularDiasExpiracao.AssemblyInfo.cs
+/home/user/vscodeProjects/RegraDeNegocio/calcularDiasExpiracao/obj/Debug/net8.0/calcularDiasExpiracao.csproj.CoreCompileInputs.cache
+/home/user/vscodeProjects/RegraDeNegocio/calcularDiasExpiracao/obj/Debug/net8.0/calcularDiasExpiracao.dll
+/home/user/vscodeProjects/RegraDeNegocio/calcularDiasExpiracao/obj/Debug/net8.0/refint/calcularDiasExpiracao.dll
+/home/user/vscodeProjects/RegraDeNegocio/calcularDiasExpiracao/obj/Debug/net8.0/calcularDiasExpiracao.pdb
+/home/user/vscodeProjects/RegraDeNegocio/calcularDiasExpiracao/obj/Debug/net8.0/calcularDiasExpiracao.genruntimeconfig.cache
+/home/user/vscodeProjects/RegraDeNegocio/calcularDiasExpiracao/obj/Debug/net8.0/ref/calcularDiasExpiracao.dll
